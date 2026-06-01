@@ -1,2 +1,2 @@
 # Sistema-de-Controle-JSON
-Sistema para controle as informacao do JSON 
+Sistema para controlar e verificar as informacao de dados do JSON 
